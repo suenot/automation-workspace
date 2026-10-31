@@ -1,24 +1,27 @@
 [submodule "facebook-automation"]
 	path = facebook-automation
-	url = git@gitlab.com:reforms-lab/automation/facebook-automation.git
+	url = git@github.com:suenot/facebook-automation.git
 [submodule "instagram-automation"]
 	path = instagram-automation
-	url = git@gitlab.com:reforms-lab/automation/instagram-automation.git
+	url = git@github.com:suenot/instagram-automation.git
 [submodule "metadata-automation"]
 	path = metadata-automation
-	url = git@gitlab.com:reforms-lab/automation/metadata-automation.git
+	url = git@github.com:suenot/metadata-automation.git
 [submodule "pinterest-automation"]
 	path = pinterest-automation
-	url = git@gitlab.com:reforms-lab/automation/pinterest-automation.git
+	url = git@github.com:suenot/pinterest-automation.git
 [submodule "threads-automation"]
 	path = threads-automation
-	url = git@gitlab.com:reforms-lab/automation/threads-automation.git
+	url = git@github.com:suenot/threads-automation.git
 [submodule "tiktok-automation"]
 	path = tiktok-automation
-	url = git@gitlab.com:reforms-lab/automation/tiktok-automation.git
+	url = git@github.com:suenot/tiktok-automation.git
 [submodule "x-automation"]
 	path = x-automation
-	url = git@gitlab.com:reforms-lab/automation/x-automation.git
+	url = git@github.com:suenot/x-posting-automation.git
 [submodule "youtube-automation"]
 	path = youtube-automation
-	url = git@gitlab.com:reforms-lab/automation/youtube-automation.git
+	url = git@github.com:suenot/youtube-automation.git
+[submodule "automation-site"]
+	path = automation-site
+	url = git@github.com:suenot/automation-site.git
