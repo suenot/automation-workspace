@@ -1,0 +1,24 @@
+[submodule "facebook-automation"]
+	path = facebook-automation
+	url = git@gitlab.com:reforms-lab/automation/facebook-automation.git
+[submodule "instagram-automation"]
+	path = instagram-automation
+	url = git@gitlab.com:reforms-lab/automation/instagram-automation.git
+[submodule "metadata-automation"]
+	path = metadata-automation
+	url = git@gitlab.com:reforms-lab/automation/metadata-automation.git
+[submodule "pinterest-automation"]
+	path = pinterest-automation
+	url = git@gitlab.com:reforms-lab/automation/pinterest-automation.git
+[submodule "threads-automation"]
+	path = threads-automation
+	url = git@gitlab.com:reforms-lab/automation/threads-automation.git
+[submodule "tiktok-automation"]
+	path = tiktok-automation
+	url = git@gitlab.com:reforms-lab/automation/tiktok-automation.git
+[submodule "x-automation"]
+	path = x-automation
+	url = git@gitlab.com:reforms-lab/automation/x-automation.git
+[submodule "youtube-automation"]
+	path = youtube-automation
+	url = git@gitlab.com:reforms-lab/automation/youtube-automation.git
