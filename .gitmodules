@@ -18,7 +18,7 @@
 	url = git@github.com:suenot/tiktok-automation.git
 [submodule "x-automation"]
 	path = x-automation
-	url = git@github.com:suenot/x-posting-automation.git
+	url = git@github.com:suenot/x-automation.git
 [submodule "youtube-automation"]
 	path = youtube-automation
 	url = git@github.com:suenot/youtube-automation.git

@@ -10,7 +10,7 @@ Git workspace of social-media content publishing automation projects (submodules
 | pinterest-automation | Pinterest |
 | threads-automation | Threads |
 | tiktok-automation | TikTok |
-| x-automation (repo `x-posting-automation`) | X |
+| x-automation | X |
 | youtube-automation | YouTube |
 | automation-site | Next.js site, https://automation.suenot.com |
 
